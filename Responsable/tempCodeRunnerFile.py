@@ -1,0 +1,2 @@
+
+class mainwind(QtWidgets.QMainWindow):

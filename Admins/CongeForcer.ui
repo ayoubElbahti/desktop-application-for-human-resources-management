@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialog</class>
+ <widget class="QDialog" name="Dialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>354</width>
+    <height>238</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QTableWidget" name="tableWidget">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>40</y>
+     <width>321</width>
+     <height>131</height>
+    </rect>
+   </property>
+   <row>
+    <property name="text">
+     <string>Congé Forcé: </string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>Congé Payé: </string>
+    </property>
+   </row>
+   <row>
+    <property name="text">
+     <string>Congé Récupérer :</string>
+    </property>
+   </row>
+   <column>
+    <property name="text">
+     <string/>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Heures Actuels</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Heures Consommés</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Rest</string>
+    </property>
+   </column>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>70</x>
+     <y>190</y>
+     <width>75</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Valider</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

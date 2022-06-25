@@ -1,0 +1,32 @@
+<RCC>
+  <qresource prefix="Icons">
+    <file>Icons/notifi.png</file>
+    <file>Icons/notifi.png</file>
+    <file>Icons/word_icon.png</file>
+    <file>Icons/jeffar-hicham-cartes.pdf</file>
+    <file>Icons/quota-removebg-preview.png</file>
+    <file>reloding.gif</file>
+    <file>Icons/icon-identity-card.png</file>
+    <file>Icons/identification-documents.png</file>
+    <file>Icons/button-305726_960_720-removebg-preview.png</file>
+    <file>Icons/ident-removebg-preview.png</file>
+    <file>Icons/logo.png</file>
+    <file>Icons/WhatsApp Image 2021-06-17 at 18.16.35.jpeg</file>
+    <file>Icons/msg.png</file>
+    <file>Icons/account-removebg-preview.png</file>
+    <file>Icons/showpass-removebg-preview.png</file>
+    <file>Icons/hidepass-removebg-preview.png</file>
+    <file>Icons/list-removebg-preview.png</file>
+    <file>Icons/conge-removebg-preview.png</file>
+    <file>Icons/277-2778613_success-icon-png-transparent-png-removebg-preview.png</file>
+    <file>Icons/account-removebg-preview.png</file>
+    <file>Icons/add_users.png</file>
+    <file>Icons/calandrier1-removebg-preview.png</file>
+    <file>Icons/refresh-removebg-preview.png</file>
+    <file>Icons/dd.png</file>
+    <file>Icons/search-icon.png</file>
+    <file>Icons/setting.png</file>
+    <file>Icons/themes.png</file>
+    <file>Icons/close_48124.png</file>
+  </qresource>
+</RCC>

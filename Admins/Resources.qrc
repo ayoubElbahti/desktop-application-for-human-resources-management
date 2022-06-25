@@ -1,0 +1,34 @@
+<RCC>
+  <qresource prefix="Icons">
+    <file>Icons/reff.png</file>
+    <file>Icons/button-305726_960_720-removebg-preview.png</file>
+    <file>Icons/icon-identity-card.png</file>
+    <file>Icons/validate-interface-searching-icon-png-and-vector-for-free-validate-png-512_511-removebg-preview.png</file>
+    <file>Icons/word_icon.png</file>
+    <file>Icons/pdf_icon.png</file>
+    <file>Icons/msg_env.jpeg</file>
+    <file>Icons/quota-removebg-preview.png</file>
+    <file>Icons/close_48124.png</file>
+    <file>Icons/return-removebg-preview.png</file>
+    <file>Icons/Loading_mg.gif</file>
+    <file>Loading_mg.gif</file>
+    <file>Icons/free-hand-cursor-icon-1285-thumb-removebg-preview.png</file>
+    <file>Icons/refuse-removebg-preview.png</file>
+    <file>Icons/historiques.png</file>
+    <file>Icons/password-icon-png-22.jpg</file>
+    <file>Icons/showpass-removebg-preview.png</file>
+    <file>Icons/hidepass-removebg-preview.png</file>
+    <file>Icons/list-removebg-preview.png</file>
+    <file>Icons/conge-removebg-preview.png</file>
+    <file>Icons/277-2778613_success-icon-png-transparent-png-removebg-preview.png</file>
+    <file>Icons/account-removebg-preview.png</file>
+    <file>Icons/add_users.png</file>
+    <file>Icons/calandrier1-removebg-preview.png</file>
+    <file>Icons/refresh-removebg-preview.png</file>
+    <file>Icons/dd.png</file>
+    <file>Icons/search-icon.png</file>
+    <file>Icons/setting.png</file>
+    <file>Icons/themes.png</file>
+    <file>Icons/logo.png</file>
+  </qresource>
+</RCC>
